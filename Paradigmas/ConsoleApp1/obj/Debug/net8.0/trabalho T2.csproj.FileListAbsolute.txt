@@ -1,0 +1,14 @@
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\bin\Debug\net8.0\trabalho T2.exe
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\bin\Debug\net8.0\trabalho T2.deps.json
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\bin\Debug\net8.0\trabalho T2.runtimeconfig.json
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\bin\Debug\net8.0\trabalho T2.dll
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\bin\Debug\net8.0\trabalho T2.pdb
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.AssemblyInfoInputs.cache
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.AssemblyInfo.cs
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.csproj.CoreCompileInputs.cache
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.dll
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\refint\trabalho T2.dll
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.pdb
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\trabalho T2.genruntimeconfig.cache
+C:\Users\cris\Desktop\cj\POG\Paradigmas\ConsoleApp1\obj\Debug\net8.0\ref\trabalho T2.dll
